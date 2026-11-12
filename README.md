@@ -23,11 +23,17 @@ The `solutions.ts` file includes solutions for:
 7. `getIntersection`
 8. `validateAgeAsync`
 
-## Blog Posts
+## Blog posts
 
-The blog posts are written as separate Markdown files:
+- [Type Aliases vs Interfaces in TypeScript](https://github.com/AAFaiyaz/B8A1/blob/main/type-vs-interface.md): the core differences between `type` and `interface`, and when to choose each one.
+- [Combining Union and Intersection Types](https://github.com/AAFaiyaz/B8A1/blob/main/union-and-intersection.md): practical examples of using `|` and `&` together.
 
-```txt
-type-vs-interface.md
-union-and-intersection.md
+## Project structure
+
+```
+.
+├── README.md
+├── solutions.ts
+├── type-vs-interface.md
+└── union-and-intersection.md
 ```
